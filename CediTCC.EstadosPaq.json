@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "683344d43a7cefe7de89a311"
+  },
+  "paquete_id": "PAQ_012",
+  "estado": "Bodega",
+  "historial": [
+    {
+      "evento": "ingreso",
+      "timestamp": "2024-05-20T08:00:00Z"
+    },
+    {
+      "evento": "PIS006",
+      "responsable": "Carlos Gomez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683344d43a7cefe7de89a312"
+  },
+  "paquete_id": "PAQ_013",
+  "estado": "Rutalocal",
+  "historial": [
+    {
+      "evento": "Transito",
+      "timestamp": "2024-05-20T08:00:00Z"
+    },
+    {
+      "evento": "Movil84",
+      "responsable": "Juan Gomez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683344d43a7cefe7de89a313"
+  },
+  "paquete_id": "PAQ_015",
+  "estado": "RutaNacional",
+  "historial": [
+    {
+      "evento": "Transito",
+      "timestamp": "2024-05-20T08:00:00Z"
+    },
+    {
+      "evento": "Movil1154",
+      "responsable": "Esteban Gonzales"
+    }
+  ]
+}]

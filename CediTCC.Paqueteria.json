@@ -1,0 +1,42 @@
+[{
+  "_id": "PAQ_009",
+  "codigo_barras": "123412",
+  "contenido": "Herramientas",
+  "Tipo_paquete": "Paqueteria",
+  "peso_kg": 995.5,
+  "Cantidad": 4,
+  "dimensiones": "3x52x105 cm",
+  "cliente": {
+    "Remite": "Camilo Torres",
+    "direccion": "Carrera 4 -Sur #45-56",
+    "Recibe": "Carlos Fonseca"
+  }
+},
+{
+  "_id": "PAQ_014",
+  "codigo_barras": "12365822",
+  "contenido": "Huacales",
+  "Tipo_paquete": "Paqueteria",
+  "peso_kg": 995.5,
+  "Cantidad": 3,
+  "dimensiones": "300x520x105 cm",
+  "cliente": {
+    "Remite": "Julian Vanegas",
+    "direccion": "Avenida 15 #56-78, Cucuta",
+    "Recibe": "Carlos Fonseca"
+  }
+},
+{
+  "_id": "PAQ_018",
+  "codigo_barras": "12365822",
+  "contenido": "Documentos",
+  "Tipo_paquete": "Documentos_digital",
+  "peso_kg": 995.5,
+  "Cantidad": 9,
+  "dimensiones": "3x5x1cm",
+  "cliente": {
+    "Remite": " Mateo Vanegas",
+    "direccion": "Calle57 #59-03,San benito",
+    "Recibe": "Luisa Sanchez"
+  }
+}]

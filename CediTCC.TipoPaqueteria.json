@@ -1,0 +1,24 @@
+[{
+  "_id": "PAQ_006",
+  "Tipo_paquete": "Paqueteria",
+  "ciudad_origen": "Bogota",
+  "ciudad_destino": "Cali",
+  "Ubicacion": "MUE0013",
+  "Cantidad": 1
+},
+{
+  "_id": "PAQ_007",
+  "Tipo_paquete": "Documentos",
+  "Ciudad_origen": "Cali",
+  "Ciudad_destino": "Cucuta",
+  "Ubicacion": "Mixto",
+  "Cantidad": 3
+},
+{
+  "_id": "PAQ_008",
+  "Tipo_paquete": "Mensajeria",
+  "Ciudad_origen": "Manizales",
+  "Ciudad_destino": "Bolivar",
+  "Ubicacion": "Mixto",
+  "Cantidad": 8
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": "UBC_BOG",
+  "Tipo_ubicacion": "RCK_522",
+  "Codigo_paquete": "1151106156,2616262616,62626596,5866516",
+  "Cantida_paquetes": 56,
+  "Numero de paquetes": "1529"
+},
+{
+  "_id": "UBC_MAZ",
+  "Tipo_ubicacion": "RCK_5202",
+  "Codigo_paquete": "1151106156,2616262616,62626596,5866516",
+  "Cantida_paquetes": 29,
+  "Numero de paquetes": "1435"
+},
+{
+  "_id": "UBC_PER",
+  "Tipo_ubicacion": "RCK_012",
+  "Codigo_paquete": "1151106156,2616262616,62626596,5866516",
+  "Cantida_paquetes": 98,
+  "Numero de paquetes": "2218"
+}]
